@@ -13,9 +13,9 @@
 
 🚀 Запуск
 # Установка
-git clone https://github.com/ваш-ник/p2p-chat.git
+git clone https://github.com/Uso1and/p2p-chat.git
 
-cd p2p-chat
+cd p2pchat
 
 go mod download
 
